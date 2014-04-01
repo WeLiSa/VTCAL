@@ -1,0 +1,166 @@
+body{
+  background-color:#9eb871;
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#top{
+
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0;
+  min-width:300px;
+  overflow: hidden;
+  position:fixed;
+  z-index:100;
+  clear: both;
+  background-color:#0b62a4;
+  background-repeat: repeat-x;
+  border: 2px outset #c4d3af;
+  
+}
+
+#top-titre{
+ font-family: Garamond, serif;
+ line-height: 0.01em;
+ color: #fff9d6;
+ font-size: 30px;
+ text-align:center;
+ text-shadow:4px 4px 4px black;
+ position:relative;
+}
+
+#container{
+ background-color:#c4d3af;
+ height: 510px;
+ margin-left: 25%;
+ margin-top: 90px;
+ width: 700px;
+ border:10px solid black;
+ position:relative;
+}
+
+#container #bloc1fieldset{
+ height: 100px;
+ margin-left: 10px;
+ margin-top: 51px;
+ width: 690px;
+
+}
+
+#container #bloc1fieldset #fieldset1{ 
+  margin-left: 0;
+}
+
+#container #bloc1fieldset #fieldset2{
+  margin-left: 344px;
+  margin-top: -81px;
+}
+
+#container #bloc2fieldset{
+
+  height: 306px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 690px;
+}
+
+#container #bloc2fieldset #fieldset3{
+  height: 236px;
+  margin-left: 0;
+  width:657px;
+}
+
+#container #bloc2fieldset #fieldset3  #datespicker{
+  height: 45px;
+  margin-left: 0;
+  width: 657px;
+}
+
+#container #bloc2fieldset #fieldset3  #fieldset4{
+   height: 111px;
+   margin-left: 0;
+   margin-top: 15px;
+   width: 148px;
+}
+
+#container #bloc2fieldset #fieldset3  #fieldset5{
+   height: 111px;
+   margin-left: 193px;
+   margin-top: -131px;
+   width: 148px;
+}
+
+#container #bloc2fieldset #fieldset3  #fieldset6{
+   height: 111px;
+   margin-left: 386px;
+   margin-top: -132px;
+   width: 148px;
+}
+
+#container #button_submit{
+   height: 62px;
+   margin-left: 31%;
+   margin-top: 40px;
+   position: relative;
+   width: 355px
+}
+
+#b_submit1
+{
+   background-color: #0B62A4;
+   border-radius: 20px;
+   height: 50px;
+   width: 106px;
+}
+
+#b_submit2
+{
+    border-radius: 20px;
+    height: 50px;
+    margin-left: 57px;
+    width: 172px;
+	background-color: #0B62A4;
+}
+
+.largeur312{
+ width: 312px;
+}
+
+.hauteur60{
+  height:60px;
+}
+.margeG53p{
+ margin-left:53%;
+}
+.margeG20{
+ margin-left:20px;
+}
+.margeH15{
+ margin-top:15px;
+}
+.gras{
+  font-weight: bold;
+}
+
+.police{
+  font-family:Times, serif;
+}
+
+.italic{
+  font-style:italic;
+}
+
+
+
+
+
+
+
+
+
